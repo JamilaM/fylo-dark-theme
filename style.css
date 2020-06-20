@@ -1,7 +1,7 @@
 *{
     
     box-sizing: border-box;
-    outline: 1px solid red;
+    
 }
 body{
     
@@ -200,6 +200,8 @@ h1{
 .testimonial-card img{
     width: 15%;
     border-radius: 50%;
+    float: left;
+    margin-right: 10px;
    
 }
 
@@ -212,13 +214,18 @@ h1{
     position: relative;
 }
 
-
-.profile {
+/*.profile {
     position: absolute;
     bottom: 30px;
     left: 80px;
     line-height: 0;
+}*/
+
+span.profile{
+    float:left;
+    
 }
+
 
 .footer-card{
     width: 60%;
