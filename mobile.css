@@ -1,10 +1,10 @@
 @media screen and (max-width: 768px){
     
    
-    }
     .divider{
         display: none;
     }
+
     
     .divider1{
         display: block;
@@ -15,73 +15,78 @@
     }
     
     
- nav ul a {
+    nav ul a {
         
         margin-right: 20px;
         font-size: 12px;
-    
     }
 
-.nav{
+
+    .nav{
     
-    align-items: center;
-}
+        align-items: center;}
     
     
-    
-    .hero, .hero2{
+   .hero, .hero2{
         
         width: auto;
     }
+    
     
     .hero-img{
         width: 80%;
     }
     
+    
     h1{
         font-size: 1.8rem;
     }
+    
     
     .blurbs{
         grid-template-columns: auto;
         
     }
     
+    
     .blurb{
         
         width: auto;
     }
+    
     
     .productive{
         
         grid-template-columns: auto;
     }
     
+    
     .productive-text{
         width: auto;
     }
+    
     
     .productive div{
         
         padding: 0;
     }
     
+    
     .testimonials{
         
         grid-template-columns: auto;
     }
     
-    .profile{
-        bottom: 40px;
-    }
     
     .footer-card{
         width: 90%;
     }
     
+    
     .footer-card input{
         width: 100%;
     }
+    
     
     .footer-card .blue-button{
         
@@ -90,9 +95,11 @@
         margin-left: 0;
     }
     
+    
     .footer{ 
     grid-template-columns: auto;
     }
+    
     
     .fab-icons{
         text-align: center;
